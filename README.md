@@ -17,7 +17,7 @@ I keep this space pretty simple. I like trying out ideas, making small projects,
 <br />
 
 
----
+--
 
 ## ✨ Interests
 - tinkering with tech and random tools  
@@ -25,7 +25,7 @@ I keep this space pretty simple. I like trying out ideas, making small projects,
 - learning new things at my own pace  
 - music, chill stuff, general internet wandering  
 
----
+--
 
 ## 🛠️ What You’ll Find Here
 A mix of:
@@ -35,7 +35,7 @@ A mix of:
 
 Basically, whatever I felt like uploading.
 
----
+--
 
 ## 🤝 Fork / Review / Contribute
 If you want to **fork**, **review**, or modify anything here, go ahead.  
@@ -46,7 +46,7 @@ If you feel like:
 
 Do whatever works for you.
 
----
+--
 
 ## 📩 Contact
 If you want to talk or collaborate, you can reach out.
