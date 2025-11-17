@@ -45,4 +45,4 @@ Do whatever works for you.
 ---
 
 ## 📩 Contact
-If you want to talk or collaborate, you can reach out to [github.leslie@gmail.com]
+If you want to talk or collaborate, you can reach out to github.leslie@gmail.com
